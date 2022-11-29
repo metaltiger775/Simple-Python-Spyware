@@ -22,6 +22,8 @@ pip install -r requirements.txt
 ```sh
 python spyware.py
 ```
+## Tested on:
+- Windows 10
 
 ## Author
 
