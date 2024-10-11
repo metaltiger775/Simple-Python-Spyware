@@ -1,4 +1,4 @@
-opencv_python==4.6.0.66
+opencv_python==4.8.1.78
 PyAutoGUI==0.9.53
 requests==2.28.1
 sounddevice==0.4.5
